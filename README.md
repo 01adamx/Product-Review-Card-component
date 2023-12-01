@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/adamx23x/Product-Review-Card-component](https://github.com/adamx23x/Product-Review-Card-component)
-- Live Site URL: [https://adamx23x.github.io/Product-Review-Card-component/](https://adamx23x.github.io/Product-Review-Card-component/)
+- Solution URL: [https://github.com/01adamx/Product-Review-Card-component](https://github.com/01adamx/Product-Review-Card-component)
+- Live Site URL: [https://01adamx.github.io/Product-Review-Card-component/](https://01adamx.github.io/Product-Review-Card-component/)
 
 ## My process
 
